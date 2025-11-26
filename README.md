@@ -7,7 +7,7 @@ Este projeto automatiza a instalação do File Browser no TrueNAS Scale e a cria
 1. Acesse seu TrueNAS Scale via terminal raiz (root).
 2. Execute o comando para iniciar a instalação automática:
 
-´´´bash
+```bash
 bash <(curl -sSL https://raw.githubusercontent.com/macbservices/Macb-NAS/main/setup.sh)
 
 
